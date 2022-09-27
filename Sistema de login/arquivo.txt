@@ -1,0 +1,7 @@
+<a href="cadastro.php">Voltar para a página anterior</a><br>
+<h1>Alunos Cadastrados</h1>
+
+
+Nome: Ester | Sobrenome: Morais | RA: 98754623487
+Nome: Vinicius | Sobrenome: Silva | RA: 65423754334
+Nome: Isabela | Sobrenome: Gaiteiro | RA: 87656754659
